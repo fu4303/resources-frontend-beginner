@@ -155,7 +155,7 @@ I'm using some emoticons to give you more information on these links.
   * [The CSS PocketGuide - Chris Casciano](https://www.amazon.com/CSS-Pocket-Guide-Peachpit/dp/0321732278)
   * [CSS Secrets: Better Solutions to Everyday Web Design Problems - Lea Verou](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635)
   * [Professional CSS3 - Piotr Sikora](https://www.packtpub.com/web-development/professional-css3)
-  * 🇫🇷 [CSS3 - Raphaël Goetter, Hugo Giraudel](http://www.eyrolles.com/Informatique/Livre/css3-9782212140231)
+  * 🇫🇷 [CSS3 - Raphaël Goetter, Kitty Giraudel](http://www.eyrolles.com/Informatique/Livre/css3-9782212140231)
   * 🇫🇷 [CSS avancées - Raphaël Goetter](http://www.eyrolles.com/Informatique/Livre/css-avancees-9782212134056)
   * 🇫🇷 [CSS avancées, Vers HTML5 et CSS3 - Mathieu Nebra](%>)
   * 🇫🇷 [Premier pas en CSS3 et HTML5](http://www.eyrolles.com/Informatique/Livre/premiers-pas-en-css3-et-html5-9782212674309)
